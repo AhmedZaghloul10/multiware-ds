@@ -39,3 +39,19 @@ multiware-ds/
 - Next-Fit + FFD bin packing — side-by-side comparison
 - Interactive canvas — drag nodes, add warehouses/edges, edit stock
 - 7 tabs: Network · Dijkstra · Kruskal · DP · Bin Packing · Compare · Orders
+
+
+## Screenshots
+
+### Network Map
+![Network Map](screenshots/network.png)
+
+### Dijkstra Animation
+![Dijkstra](screenshots/Dijkstra.png)
+
+
+
+### Krustal
+![Krustal](screenshots/Krustal.png)
+
+
