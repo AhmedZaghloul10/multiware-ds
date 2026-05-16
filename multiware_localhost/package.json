@@ -1,0 +1,11 @@
+{
+  "name": "multiware-ds",
+  "version": "1.0.0",
+  "description": "Multi-Warehouse Distribution System — Data Structures & Algorithms Project",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev":   "npx live-server --port=3000 --open=index.html"
+  },
+  "keywords": ["dijkstra", "kruskal", "dp", "bin-packing", "distribution"],
+  "author": "DSA Project Team"
+}
